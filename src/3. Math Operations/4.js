@@ -1,22 +1,22 @@
 // Adding numbers
 
 var sum = 10 + 10;
-console.log(sum)
+console.log(sum);
 
 // Substracting numbers 
 
 var difference = 20 - 15;
-console.log(difference)
+console.log(difference);
 
 // Multiplying numbers
 
 var product = 8 * 10;
-console.log(product)
+console.log(product);
 
 // Dividing numbers
 
 var quotent = 66 / 33;
-console.log(quotent)
+console.log(quotent);
 
 // Incrementing numbers
 
@@ -26,7 +26,7 @@ var myVar = 88;
 
 myVar++; // Short way
 
-console.log(myVar)
+console.log(myVar);
 
 // Decrementing numbers
 
@@ -36,4 +36,4 @@ var myVarTwo = 88;
 
 myVarTwo--; // Short way
 
-console.log(myVarTwo)
+console.log(myVarTwo);

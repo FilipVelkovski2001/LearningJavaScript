@@ -6,15 +6,15 @@ var myDecimal = 0.009;
 // Multiplying decimal
 
 var product = 2.0 * 2.5;
-console.log(product)
+console.log(product);
 
 // Divide decimal
 
 var quotent = 2.0 / 2.5;
-console.log(quotent)
+console.log(quotent);
 
 // Finding a remainder (Modulus)
 
 var remainder;
 remainder = 11 % 3;
-console.log(remainder)
+console.log(remainder);

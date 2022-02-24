@@ -30,13 +30,13 @@ var anAdjective = "awesome!";
 var ourStr = "Semos Education is ";
 ourStr += anAdjective;
 
-console.log(ourStr)
+console.log(ourStr);
 
 var someAdjective = "wortwhile";
 var myStr = "Learning to code is ";
 myStr += someAdjective;
 
-console.log(myStr)
+console.log(myStr);
 
 // Lenght of a String
 var firstNameLenght = 0;
@@ -44,4 +44,4 @@ var firstName = "Adam";
 
 firstNameLenght = firstName.length;
 
-console.log(firstNameLenght)
+console.log(firstNameLenght);

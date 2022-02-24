@@ -1,6 +1,6 @@
 // Runnin JS, Comments and Variables
 
-console.log("Hello World") // This is a in-line comment
+console.log("Hello World"); // This is a in-line comment
 
 /*
 Variables: 
@@ -12,8 +12,8 @@ myName = "Davidco";
 var myNum = 8;
 // var is going to be able to be used in the whole program
 
-console.log(myNum)
-console.log(myName)
+console.log(myNum);
+console.log(myName);
 
 let ourName = "Semos Uni";
 // let will only be used within the scope where you declared it

@@ -9,13 +9,13 @@ var myLastName = "Velkovski";
 // Escaping literal quotes
 
 var myStr = "I am a \"double quoted\" string inside \"double quotes\""; // We use the backslash to tell js that these double quotes belong inside the string
-console.log(myStr)
+console.log(myStr);
 
 var a = '"something"'; // We can also use single quotes if we have double quotes inside the string
-console.log(a)
+console.log(a);
 
 var b = `'"something'"` // We can also use ` if we want to have single quotes and double quotes
-console.log(b)
+console.log(b);
 
 /*
 
